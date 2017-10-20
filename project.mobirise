@@ -683,12 +683,17 @@
               "text-align": "center"
             },
             "P": {
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "B": {
               "color": "#ffffff"
             }
           },
           "_name": "slider1",
           "_customHTML": "<section class=\"carousel slide\" group=\"Sliders & Gallery\" plugins=\"YTPlayer,VimeoPlayer,SliderVideo,BootstrapCarouselSwipe\" data-interval=\"false\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"carousel\" title=\"Slides\" name=\"slides\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-carousel=\"slides\" class=\"full-screen\" mbr-carousel-embedded></div>\n\n</section>",
           "_cid": "qyAPTqdCQZ",
+          "_anchor": "slider1-20",
           "_protectedParams": [
             "slides__autoplay",
             "slides__autoplayInterval",
@@ -704,7 +709,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -717,7 +722,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "IL FAUT CONNECTION INTERNET AVEC UN \n<br>DES APPREIL SUIVANTS: <br>\n<br><b>-SMART TV</b><br><b>-ANDROID TV <br>-ANDROID BOX<br>-ANDROID PHONE\n<br>-IOS PHONE\n<br>-MAG 25XX\n<br>-PC</b>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.youtube.com/watch?v=CRIgsAOlf90\" data-toolbar=\"-mbrBtnMove\">VIDEO</a>  ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.youtube.com/watch?v=CRIgsAOlf90\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>VIDEO</a>  ",
                 "overlayOpacity": "0.7"
               },
               {
@@ -735,7 +740,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "ABONNEMENT DISPONIBLE AVEC DECODEUR OU SANS DECODEUR",
-                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">ABONNEMENT</a>   "
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ABONNEMENT</a>   "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
@@ -751,12 +756,29 @@
                 "title": "APPLICATION ET TEST",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "POUR OBTENIR UN CODE DE TEST VEUILLEZ TÉLÉCHARGER ET INSTALLER CET <a href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\">APPLICATION </a>ET APRÈS NOUS CONTACTER SUR CE NUMÉRO POUR ENVOYER LE CODE DE TEST\n<br>\n<br>00225 48708753\n<br>\n<br><b>APPEL</b>, <b>WHATSAPP</b>, <b>VIBER</b>, <b>SMS</b>",
-                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\">APPLICATION</a>   "
+                "text": "POUR OBTENIR UN CODE DE TEST VEUILLEZ TÉLÉCHARGER ET INSTALLER CET <a href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\">APPLICATION </a>ET APRÈS NOUS CONTACTER SUR CE NUMÉRO POUR ENVOYER LE CODE DE TEST\n<br>\n<br><a href=\"tel:+22548708753\">00225 48708753\n</a><br>\n<br><b>APPEL</b>, <b>WHATSAPP</b>, <b>VIBER</b>, <b>SMS</b>",
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-save mbr-iconfont mbr-iconfont-btn\"></span>APPLICATION</a>   "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "LIST DES CHAINS",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "LE SERVICE IPTV A PLUS DE 2500 CANALS<br>\n<br><b>-BIEN PACKAGE</b><br><b>-ARABIC PACKAGE<br>-FRANCE PACKAGE<br>-OSN PACKAGE<br>-CANADA PACKAGE<br>-UK PACKAGE<br>-USA PACKAGE </b><br><b>-ETC .....</b>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59e4a7fd4d7d855cjKL9/FisHboneIptvList.txt\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-save mbr-iconfont mbr-iconfont-btn\"></span>LISTE&nbsp;</a>   ",
+                "overlayOpacity": "0.7"
               }
             ]
-          },
-          "_anchor": "slider1-20"
+          }
         }
       ]
     },
