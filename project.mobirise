@@ -735,7 +735,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "ABONNEMENT DISPONIBLE AVEC DECODEUR OU SANS DECODEUR",
-                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">ABONNEMENT</a>   "
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"page11.html\" data-toolbar=\"-mbrBtnMove\">ABONNEMENT</a>   "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
