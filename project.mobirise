@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FisHbone IPTV",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 73,
     "versionPublish": "4.3.4",
@@ -700,11 +700,11 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": 4000,
-            "slides__showBullets": true,
+            "slides__showBullets": false,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -739,7 +739,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -5242,7 +5242,8 @@
               }
             },
             ".mbr-text": {
-              "color": "#767676"
+              "color": "#767676",
+              "text-align": "left"
             },
             ".card-wrapper": {
               "padding-bottom": "2rem",
