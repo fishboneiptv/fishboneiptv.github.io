@@ -2915,7 +2915,7 @@
             },
             ".mbr-text": {
               "color": "#767676",
-              "text-align": "right"
+              "text-align": "left"
             },
             ".card-wrapper": {
               "padding-bottom": "2rem",
@@ -2986,7 +2986,7 @@
             },
             ".mbr-text": {
               "color": "#767676",
-              "text-align": "right"
+              "text-align": "center"
             },
             ".card-wrapper": {
               "padding-bottom": "2rem",
@@ -5172,7 +5172,7 @@
             },
             ".mbr-text": {
               "color": "#767676",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".card-wrapper": {
               "padding-bottom": "2rem",
@@ -5243,7 +5243,7 @@
             },
             ".mbr-text": {
               "color": "#767676",
-              "text-align": "left"
+              "text-align": "center"
             },
             ".card-wrapper": {
               "padding-bottom": "2rem",
