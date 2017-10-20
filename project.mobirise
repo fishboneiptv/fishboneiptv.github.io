@@ -716,7 +716,7 @@
                 "title": "COMMENT CAMARCH",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "IL FAUT CONNECTION INTERNET AVEC UN \n<br>DES APPREIL SUIVANTS: <br>\n<br><b>-SMART TV\n</b><br><br><b>-ANDROID TV \n<br>\n<br>-ANDROID BOX\n<br>\n<br>-ANDROID PHONE\n<br>\n<br>-IOS PHONE\n<br>\n<br>-MAG 25XX\n<br>\n<br>-PC</b>",
+                "text": "IL FAUT CONNECTION INTERNET AVEC UN \n<br>DES APPREIL SUIVANTS: <br>\n<br><b>-SMART TV</b><br><b>-ANDROID TV <br>-ANDROID BOX<br>-ANDROID PHONE\n<br>-IOS PHONE\n<br>-MAG 25XX\n<br>-PC</b>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://www.youtube.com/watch?v=CRIgsAOlf90\" data-toolbar=\"-mbrBtnMove\">VIDEO</a>  ",
                 "overlayOpacity": "0.7"
               },
